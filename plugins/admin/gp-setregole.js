@@ -11,7 +11,7 @@ let handler = async function (m, { conn, text, usedPrefix }) {
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363259442839354@newsletter',
                 serverMessageId: '',
-                newsletterName: '${nomeBot}'
+                newsletterName: '${nomeBot} ✦ 𝐑𝐞𝐠𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐨'
             }
         }
     }, { quoted: m });
